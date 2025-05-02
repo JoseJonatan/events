@@ -1,0 +1,29 @@
+[
+  {
+    "Name": "Rock al Parque",
+    "Artist": "Bomba Estéreo",
+    "Description": "Festival gratuito de rock y música alternativa en Bogotá.",
+    "City": "Bogotá",
+    "State": "Distrito Capital",
+    "Country": "Colombia",
+    "LatLong": "4.7110,-74.0721"
+  },
+  {
+    "Name": "Lollapalooza Argentina",
+    "Artist": "Dua Lipa",
+    "Description": "Festival internacional con artistas de todo el mundo.",
+    "City": "Buenos Aires",
+    "State": "Buenos Aires",
+    "Country": "Argentina",
+    "LatLong": "-34.6037,-58.3816"
+  },
+  {
+    "Name": "Vive Latino",
+    "Artist": "Café Tacvba",
+    "Description": "Uno de los festivales de rock más importantes de Latinoamérica.",
+    "City": "Ciudad de México",
+    "State": "CDMX",
+    "Country": "México",
+    "LatLong": "19.4326,-99.1332"
+  }
+]
